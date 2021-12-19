@@ -4,7 +4,8 @@ const ejs = require("ejs");
 const fetch = require("node-fetch");
 
 // API Key
-const myKey = "787c65cc0137281260216caa9960ad37";
+// myKey = "787c65cc0137281260216caa9960ad37";
+const myKey = "your API Key";
 
 // k to cel
 function ktoC(k) {
